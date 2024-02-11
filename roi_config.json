@@ -1,0 +1,157 @@
+{
+  "config": {
+    "filename": "reference.jpg",
+    "size": 138376,
+    "rois": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 364,
+          "y": 543,
+          "width": 582,
+          "height": 65
+        },
+        "region_attributes": {
+          "name": "name",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1155,
+          "y": 537,
+          "width": 116,
+          "height": 65
+        },
+        "region_attributes": {
+          "name": "gender",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 367,
+          "y": 631,
+          "width": 902,
+          "height": 65
+        },
+        "region_attributes": {
+          "name": "address",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 367,
+          "y": 720,
+          "width": 902,
+          "height": 65
+        },
+        "region_attributes": {
+          "name": "email",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 367,
+          "y": 809,
+          "width": 423,
+          "height": 65
+        },
+        "region_attributes": {
+          "name": "phone",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+    {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 144,
+          "y": 1000,
+          "width": 1128,
+          "height": 227
+        },
+        "region_attributes": {
+          "name": "question1",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+    {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 144,
+          "y": 1334,
+          "width": 1128,
+          "height": 227
+        },
+        "region_attributes": {
+          "name": "question2",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+    {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 144,
+          "y": 1660,
+          "width": 1128,
+          "height": 227
+        },
+        "region_attributes": {
+          "name": "question3",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  }
+}
